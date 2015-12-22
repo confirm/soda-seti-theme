@@ -1,0 +1,3 @@
+[submodule "Seti_ST3_Icons"]
+	path = Seti_ST3_Icons
+	url = git@github.com:confirm/Seti_ST3_Icons.git
