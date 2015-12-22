@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Ian Hill</string>
 	<key>comment</key>
-	<string>A widget theme for the UI components of the Soda Dark theme.</string>
+	<string>A widget theme for the UI components of the SodaSeti Dark theme.</string>
 	<key>name</key>
-	<string>Soda Dark - Widget Theme</string>
+	<string>SodaSeti Dark - Widget Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
