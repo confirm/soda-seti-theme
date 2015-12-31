@@ -2,6 +2,11 @@
 
 Dark and light custom UI themes for Sublime Text 2 and Sublime Text 3 based on the origin and pretty awesome [soda-theme](https://github.com/buymeasoda/soda-theme), combined with the icons of the [Seti_ST3 theme](https://github.com/ctf0/Seti_ST3).
 
+Here's an example:
+
+![Screenshot](screenshot.jpg)
+
+
 So in the end I only combined the [Soda theme](https://github.com/buymeasoda/soda-theme) with the [Seti theme](https://github.com/ctf0/Seti_ST3).
 Therefor all credits belong to those guys!
 
